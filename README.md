@@ -1,2 +1,11 @@
-# congenial-broccoli
-Anybody16
+# lunchy
+*.app
+
+Runing,:one/
+
+Plear,:two,:dinosor,:
+
+Strate,:way/
+
+Way,:left"right
+
